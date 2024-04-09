@@ -1,0 +1,17 @@
+d   delete		删除
+		
+y   yank		复制
+		
+c   change	    修改	
+		
+=   format	    格式化	
+		
+gU  uppercase   变为大写		
+		
+gu  lowercase	变为小写	
+		
+g~  toggle case 交换大小写	
+		
+v   visual		高亮显示
+		
+gq  wrap format 换行格式化	

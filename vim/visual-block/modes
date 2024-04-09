@@ -1,0 +1,19 @@
+
+
+
+
+
+
+
+
+VISUAL MODE
+
+
+1. 单字符模式 v             -- VISUAL --     
+
+
+2. 行模式  shift + v        -- VISUAL LINE --  
+
+
+3. 列模式  ctrl + v         -- VISUAL BLOCK --  
+

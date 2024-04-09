@@ -1,0 +1,16 @@
+类型                缩写
+1.word               w
+
+2.WORD               W
+
+3.sentence           s
+
+4.paragraph          p
+
+5.tag                t
+
+6.block              b
+
+7.Block              B
+
+8.symbol block       "'`([{<

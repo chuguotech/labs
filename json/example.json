@@ -1,0 +1,13 @@
+{
+  "name": "Hawk",
+  "age": 20,
+  "single": false,
+  "fruits": [
+      "Apple",
+      "Mango"
+    ],
+  "friend": {
+      "name": "Lucy",
+      "age": 18
+    }
+}

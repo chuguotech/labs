@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HTML模板</title>
+    </head>
+    <body>
+        <h1>HTML模板</h1>
+<textarea cols=40 rows=12>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+    </body>
+</html>
+</textarea>
+<p><button>点击复制</button></p>
+<p id=result></p>
+    </body>
+    <script>
+        document.querySelector("button").onclick = function(){
+            document.querySelector("textarea").select();
+            document.execCommand('copy');
+            document.querySelector("#result").innerHTML = '复制成功！';
+        }
+    </script>
+</html>

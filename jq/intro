@@ -1,0 +1,11 @@
+format
+
+filter
+
+length
+
+sort_by
+echo '[{"name":"Lucy","age":20,"money":100},{"name":"Sam","age":30,"money":200}]' | jq 'sort_by(.money)'
+
+map
+echo '[{"name":"Lucy","age":20,"money":100},{"name":"Sam","age":30,"money":200}]' | jq 'map(.age += 1)'
